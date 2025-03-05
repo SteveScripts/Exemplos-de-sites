@@ -13,6 +13,7 @@ body {
 }
 
 main {
+    padding-top: 5px;
     text-align: center;
     color: white;
 }
@@ -34,3 +35,13 @@ img#gif {
     margin: auto;
     margin-top: 10px;
 }
+
+section {
+    width: 90vw;
+    padding-top: 5px;
+    text-align: justify;
+    color: white;
+    margin: auto;
+}
+
+p#amo {text-align: center;}
